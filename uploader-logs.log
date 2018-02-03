@@ -1,0 +1,1212 @@
+Feb 03, 2018 7:33:47 PM skimap.Uploader <clinit>
+INFO: properties have been already setup!
+Feb 03, 2018 7:33:47 PM skimap.Uploader getSkiAreaIds
+INFO: url created for index of ski
+Feb 03, 2018 7:33:57 PM skimap.Uploader getSkiAreaIds
+INFO: opened stream for ski index
+Feb 03, 2018 7:33:58 PM skimap.Uploader getSkiAreaIds
+INFO: Total number of ski resorts fetched:216
+Feb 03, 2018 7:33:58 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 987
+Feb 03, 2018 7:33:58 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 29 21:58:23 CET 2015, officialWebsite=http://bergbahnen.zermatt.ch/, lng=7.6311111111111, name=Zermatt/Breuil-Cervinia (Matterhorn ski paradise), terrainPark=true, nightSkiing=false, region=Valais and Vaud, lat=45.934444444444, skiMapUrl=https://skimap.org/data/987/2205/1494173884jpg_render.jpg}
+Feb 03, 2018 7:33:59 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2052
+Feb 03, 2018 7:33:59 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13464
+Feb 03, 2018 7:33:59 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 01 00:00:00 CET 1969, officialWebsite=http://www.sandomenico-ciamporino.it/in_en.htm, lng=8.1894388888889, name=Alpe Ciamporino, liftCount=6, terrainPark=false, nightSkiing=false, region=Italy, lat=46.250258333333, skiMapUrl=https://skimap.org/data/2052/2205/1505481640.jpg}
+Feb 03, 2018 7:33:59 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2053
+Feb 03, 2018 7:34:00 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 25 20:06:17 CET 2012, officialWebsite=http://www.altabadia.org, top=2778, lng=11.872393146438, name=Alta Badia - Corvara - La Villa - San Cassiano, liftCount=53, terrainPark=true, nightSkiing=true, region=Italy, lat=46.549933946601, skiMapUrl=https://skimap.org/data/2053/2205/1455792300jpg_render.jpg, longestRun=8500}
+Feb 03, 2018 7:34:00 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2054
+Feb 03, 2018 7:34:00 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 12928
+Feb 03, 2018 7:34:00 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 01 00:00:00 CET 1969, officialWebsite=http://www.apricaonline.com/index.php, lng=10.133333333333, name=Aprica, terrainPark=false, nightSkiing=false, region=Italy, lat=46.15, skiMapUrl=https://skimap.org/data/2054/2205/1492853142.jpg}
+Feb 03, 2018 7:34:00 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2055
+Feb 03, 2018 7:34:01 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 01 00:00:00 CET 1969, officialWebsite=http://www.bardonecchiaski.com, lng=6.7, name=Bardonecchia, terrainPark=false, nightSkiing=false, region=Italy, lat=45.083333333333, skiMapUrl=https://skimap.org/data/2055/2205/1488129117jpg_render.jpg}
+Feb 03, 2018 7:34:01 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2056
+Feb 03, 2018 7:34:01 PM skimap.Uploader fetchSkiMaps
+INFO: JSONArray[0] not found.
+Feb 03, 2018 7:34:01 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2057
+Feb 03, 2018 7:34:01 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 12566
+Feb 03, 2018 7:34:01 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 28 08:49:35 CET 2012, officialWebsite=http://www.bormioski.eu/, top=1790, lng=10.37215983073, name=Bormio, liftCount=22, terrainPark=true, nightSkiing=true, region=Italy, lat=46.46276472839, skiMapUrl=https://skimap.org/data/2057/2205/1488120365.jpg}
+Feb 03, 2018 7:34:01 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2059
+Feb 03, 2018 7:34:02 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11164
+Feb 03, 2018 7:34:02 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 17 16:46:36 CET 2012, officialWebsite=, top=1870, lng=14.392275238037, name=Campitello Matese, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=41.462421641238, skiMapUrl=https://skimap.org/data/2059/2205/1461359297.jpg}
+Feb 03, 2018 7:34:02 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2060
+Feb 03, 2018 7:34:02 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11185
+Feb 03, 2018 7:34:02 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 01 17:05:02 CET 2012, officialWebsite=http://www.campofelice.it/, top=2064, lng=13.478783035278, name=Campo Felice - Rocca di Cambio, liftCount=14, terrainPark=true, nightSkiing=false, region=Italy, lat=42.217302812732, skiMapUrl=https://skimap.org/data/2060/2205/1461487598.jpg}
+Feb 03, 2018 7:34:02 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2061
+Feb 03, 2018 7:34:03 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 28 17:49:20 CET 2012, officialWebsite=http://www.canazei.org/, top=2958, lng=11.773333333333, name=Canazei, liftCount=22, terrainPark=false, nightSkiing=false, region=Italy, lat=46.475, skiMapUrl=https://skimap.org/data/2061/1/1354475701jpg_render.jpg}
+Feb 03, 2018 7:34:03 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2062
+Feb 03, 2018 7:34:03 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11166
+Feb 03, 2018 7:34:03 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 30 03:56:00 CET 2010, officialWebsite=http://www.alpecermis.it/, lng=11.466666666667, name=Cavalese (Alpe Cermis), terrainPark=false, nightSkiing=false, region=Italy, lat=46.283333333333, skiMapUrl=https://skimap.org/data/2062/2205/1461359933.jpg}
+Feb 03, 2018 7:34:03 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2065
+Feb 03, 2018 7:34:04 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 25 07:12:16 CET 2012, officialWebsite=http://cortina.dolomiti.org/, top=2990, lng=12.133333333333, name=Cortina d'Ampezzo (Faloria - Cristallo - Mietres - Tofana), liftCount=37, terrainPark=true, nightSkiing=true, region=Italy, lat=46.533333333333, skiMapUrl=https://skimap.org/data/2065/1/1354475306jpg_render.jpg, longestRun=7000}
+Feb 03, 2018 7:34:04 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2066
+Feb 03, 2018 7:34:04 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 26 18:12:31 CET 2012, officialWebsite=http://www.courmayeur-montblanc.com/, top=2755, lng=6.9707865397136, name=Courmayeur, liftCount=20, terrainPark=true, nightSkiing=true, region=Italy, lat=45.785069131975, skiMapUrl=https://skimap.org/data/2066/2205/1461360639jpg_render.jpg, longestRun=1000}
+Feb 03, 2018 7:34:04 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2067
+Feb 03, 2018 7:34:05 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 25 20:16:18 CET 2012, officialWebsite=http://www.dolomitisuperski.com/it/altapusteria, top=2000, lng=12.328651809692, name=Dobbiaco - San Candido - Braies - Sesto - Alta Pusteria, liftCount=31, terrainPark=true, nightSkiing=false, region=Italy, lat=46.731834593891, skiMapUrl=https://skimap.org/data/2067/2205/1494078695jpg_render.jpg, longestRun=4000}
+Feb 03, 2018 7:34:05 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2068
+Feb 03, 2018 7:34:05 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 28 18:18:31 CET 2012, officialWebsite=http://www.dolomitisuperski.com, lng=11.826654052734, name=Dolomiti Superski, terrainPark=true, nightSkiing=true, region=Italy, lat=46.517689546898, skiMapUrl=https://skimap.org/data/2068/1/1354475117jpg_render.jpg}
+Feb 03, 2018 7:34:05 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2069
+Feb 03, 2018 7:34:08 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8076
+Feb 03, 2018 7:34:08 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 28 14:04:11 CET 2012, officialWebsite=http://www.etnasci.it/, lng=15.036438369751, name=Etna, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=37.798089888814, skiMapUrl=https://skimap.org/data/2069/871/1413006849.jpg}
+Feb 03, 2018 7:34:08 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2070
+Feb 03, 2018 7:34:08 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 12934
+Feb 03, 2018 7:34:08 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 28 18:13:40 CET 2012, officialWebsite=http://www.skipasslivigno.com/, top=2900, lng=10.133333333333, name=Livigno, liftCount=31, terrainPark=true, nightSkiing=true, region=Italy, lat=46.533333333333, skiMapUrl=https://skimap.org/data/2070/2205/1492936684.png, longestRun=2000}
+Feb 03, 2018 7:34:08 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2071
+Feb 03, 2018 7:34:09 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 3513
+Feb 03, 2018 7:34:09 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 19 16:37:10 CET 2012, officialWebsite=http://www.malcesinepiu.it/lago-di-garda/Piste-da-Sci.html, top=1830, lng=10.813210010444, name=Malcesine - Monte Baldo, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=45.766232254602, skiMapUrl=https://skimap.org/data/2071/1/1259377149.jpg}
+Feb 03, 2018 7:34:09 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2072
+Feb 03, 2018 7:34:09 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11115
+Feb 03, 2018 7:34:09 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 28 18:23:45 CET 2012, officialWebsite=http://www.macugnaga-monterosa.it/, top=2970, lng=7.9666666666667, name=Macugnaga, liftCount=11, terrainPark=false, nightSkiing=false, region=Italy, lat=45.966666666667, skiMapUrl=https://skimap.org/data/2072/2052/1461003687.jpg, longestRun=7000}
+Feb 03, 2018 7:34:09 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2073
+Feb 03, 2018 7:34:10 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 11 16:35:20 CET 2016, officialWebsite=http://www.funiviecampiglio.it/, top=2500, lng=10.826111111111, name=Madonna di Campiglio / Folgarida-Marilleva / Pinzolo, terrainPark=true, nightSkiing=false, region=Italy, lat=46.231944444444, skiMapUrl=https://skimap.org/data/2073/1/1494520734jpg_render.jpg, longestRun=4000}
+Feb 03, 2018 7:34:10 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2074
+Feb 03, 2018 7:34:10 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 01 00:00:00 CET 1969, officialWebsite=http://www.meran2000.net, lng=11.24128818512, name=Meran 2000, terrainPark=false, nightSkiing=false, region=Italy, lat=46.665960520165, skiMapUrl=https://skimap.org/data/2074/2205/1494714421jpg_render.jpg}
+Feb 03, 2018 7:34:10 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2075
+Feb 03, 2018 7:34:11 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 3512
+Feb 03, 2018 7:34:11 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 13 19:14:05 CET 2012, officialWebsite=http://www.amiataneve.it, top=1738, lng=11.633333333333, name=Monte Amiata, liftCount=5, terrainPark=true, nightSkiing=false, region=Italy, lat=42.9, skiMapUrl=https://skimap.org/data/2075/1/1259377067.jpg, longestRun=2000}
+Feb 03, 2018 7:34:11 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2076
+Feb 03, 2018 7:34:11 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13892
+Feb 03, 2018 7:34:11 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 26 21:59:45 CET 2017, officialWebsite=http://www.skimontebondone.it/, top=2100, lng=11.044611111111, name=Monte Bondone, liftCount=10, terrainPark=false, nightSkiing=false, region=Italy, lat=46.027588888889, skiMapUrl=https://skimap.org/data/2076/2205/1517004034.jpg}
+Feb 03, 2018 7:34:11 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2077
+Feb 03, 2018 7:34:11 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11183
+Feb 03, 2018 7:34:11 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 16 10:45:59 CET 2012, officialWebsite=http://www.consorziomontecampione.it/, top=2000, lng=10.184722222222, name=Montecampione, liftCount=11, terrainPark=false, nightSkiing=false, region=Italy, lat=45.830277777778, skiMapUrl=https://skimap.org/data/2077/2205/1461486888.png, longestRun=3000}
+Feb 03, 2018 7:34:12 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2078
+Feb 03, 2018 7:34:12 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 13 19:26:30 CET 2012, officialWebsite=http://www.cimonesci.it/, top=1976, lng=10.704117838542, name=Monte Cimone, liftCount=27, terrainPark=true, nightSkiing=false, region=Italy, lat=44.195710900699, skiMapUrl=https://skimap.org/data/2078/2205/1507489477jpg_render.jpg, longestRun=3000}
+Feb 03, 2018 7:34:12 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2079
+Feb 03, 2018 7:34:14 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11182
+Feb 03, 2018 7:34:14 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 13 19:15:29 CET 2012, officialWebsite=, lng=13.000088, name=Monte Terminillo, terrainPark=false, nightSkiing=false, region=Italy, lat=42.483112, skiMapUrl=https://skimap.org/data/2079/2205/1461486718.jpg}
+Feb 03, 2018 7:34:14 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2080
+Feb 03, 2018 7:34:15 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 3506
+Feb 03, 2018 7:34:15 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 29 19:41:04 CET 2012, officialWebsite=http://www.brocon.it/, lng=11.661919021607, name=Passo Brocon, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=46.114631642189, skiMapUrl=https://skimap.org/data/2080/1/1259376287.jpg}
+Feb 03, 2018 7:34:15 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2082
+Feb 03, 2018 7:34:15 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7704
+Feb 03, 2018 7:34:15 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 27 16:59:59 CET 2012, officialWebsite=http://www.sanmartino.com/, top=2600, lng=11.800518, name=San Martino di Castrozza (Passo Rolle), liftCount=24, terrainPark=true, nightSkiing=true, region=Italy, lat=46.26193, skiMapUrl=https://skimap.org/data/2082/1626/1385626931.jpg, longestRun=4000}
+Feb 03, 2018 7:34:15 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2083
+Feb 03, 2018 7:34:16 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 3503
+Feb 03, 2018 7:34:16 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 28 18:05:24 CET 2012, officialWebsite=http://www.fassa.com/, top=2520, lng=11.801651382446, name=Trevalli (Passo San Pellegrino, Falcade, Moena), liftCount=19, terrainPark=false, nightSkiing=false, region=Italy, lat=46.378412542706, skiMapUrl=https://skimap.org/data/2083/1/1259375613.jpg, longestRun=5000}
+Feb 03, 2018 7:34:16 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2084
+Feb 03, 2018 7:34:16 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 3501
+Feb 03, 2018 7:34:16 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 29 17:43:15 CET 2012, officialWebsite=http://www.passostelvio.com/, top=3450, lng=10.619591140747, name=Passo dello Stelvio, liftCount=6, terrainPark=true, nightSkiing=false, region=Italy, lat=46.501202307012, skiMapUrl=https://skimap.org/data/2084/1/1259298780.jpg, longestRun=5000}
+Feb 03, 2018 7:34:16 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2085
+Feb 03, 2018 7:34:17 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 27 17:11:38 CET 2012, officialWebsite=http://www.adamelloski.com/it/, top=3016, lng=10.583198928833, name=Adamello Ski (Passo del Tonale. Pontedilegno), liftCount=30, terrainPark=false, nightSkiing=false, region=Italy, lat=46.26009360589, skiMapUrl=https://skimap.org/data/2085/1/1259375404jpg_render.jpg, longestRun=11000}
+Feb 03, 2018 7:34:17 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2086
+Feb 03, 2018 7:34:17 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 29 17:37:17 CET 2012, officialWebsite=http://www.pila.it/, top=2709, lng=7.3192323811849, name=Pila, terrainPark=true, nightSkiing=false, region=Italy, lat=45.731793167618, skiMapUrl=https://skimap.org/data/2086/2052/1495978568jpg_render.jpg, longestRun=5000}
+Feb 03, 2018 7:34:17 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2087
+Feb 03, 2018 7:34:18 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 06 13:51:46 CET 2016, officialWebsite=http://www.dolomitisuperski.com/it/plan-de-corones, top=1340, lng=11.96, name=Plan de Corones (Kronplatz), liftCount=31, terrainPark=true, nightSkiing=false, region=Italy, lat=46.738055555556, skiMapUrl=https://skimap.org/data/2087/2205/1496757060jpg_render.jpg, longestRun=7000}
+Feb 03, 2018 7:34:18 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2088
+Feb 03, 2018 7:34:18 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11162
+Feb 03, 2018 7:34:18 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 17 16:40:53 CET 2012, officialWebsite=http://www.skiareapontechianale.it/, top=2780, lng=7.0287784576417, name=Pontechianale, liftCount=10, terrainPark=false, nightSkiing=false, region=Italy, lat=44.623437838199, skiMapUrl=https://skimap.org/data/2088/2205/1461357590.jpg, longestRun=6400}
+Feb 03, 2018 7:34:18 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2089
+Feb 03, 2018 7:34:19 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7686
+Feb 03, 2018 7:34:19 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 25 07:21:03 CET 2012, officialWebsite=http://www.pratonevoso.com/, top=2000, lng=7.78905, name=Prato Nevoso - Frabosa - Artesina, liftCount=33, terrainPark=true, nightSkiing=false, region=Italy, lat=44.256697222222, skiMapUrl=https://skimap.org/data/2089/1626/1385364127.jpg, longestRun=4850}
+Feb 03, 2018 7:34:19 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2090
+Feb 03, 2018 7:34:19 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 6552
+Feb 03, 2018 7:34:19 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 01 17:33:20 CET 2012, officialWebsite=http://www.roccaraso.net/, top=2140, lng=14.079166666667, name=Roccaraso - Rivisondoli, liftCount=23, terrainPark=false, nightSkiing=false, region=Italy, lat=41.851111111111, skiMapUrl=https://skimap.org/data/2090/871/1340452522.png, longestRun=5000}
+Feb 03, 2018 7:34:19 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2091
+Feb 03, 2018 7:34:20 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 29 17:28:50 CET 2012, officialWebsite=http://www.valsenales.com, lng=10.784144083659, name=Schnalstal, terrainPark=false, nightSkiing=false, region=Italy, lat=46.75553926944, skiMapUrl=https://skimap.org/data/2091/916/1343264969jpg_render.jpg}
+Feb 03, 2018 7:34:20 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2092
+Feb 03, 2018 7:34:20 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 9760
+Feb 03, 2018 7:34:20 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 07 14:56:15 CET 2016, officialWebsite=http://www.sellanevea.net/, lng=13.475555555556, name=Sella Nevea, terrainPark=false, nightSkiing=false, region=Italy, lat=46.390555555556, skiMapUrl=https://skimap.org/data/2092/2205/1449313027.jpg}
+Feb 03, 2018 7:34:20 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2093
+Feb 03, 2018 7:34:21 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 27 17:17:02 CET 2012, officialWebsite=http://www.ortlerskiarena.com/, top=3250, lng=10.6, name=Sulden-Solda, liftCount=11, terrainPark=false, nightSkiing=false, region=Italy, lat=46.516666666667, skiMapUrl=https://skimap.org/data/2093/871/1412075987jpg_render.jpg}
+Feb 03, 2018 7:34:21 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2094
+Feb 03, 2018 7:34:21 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11167
+Feb 03, 2018 7:34:21 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 01 00:00:00 CET 1969, officialWebsite=http://www.latemar.it/, lng=11.5667, name=Latemar (Val di Fiemme, Obereggen), terrainPark=false, nightSkiing=false, region=Italy, lat=46.2833, skiMapUrl=https://skimap.org/data/2094/2205/1461360038.jpg}
+Feb 03, 2018 7:34:21 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2095
+Feb 03, 2018 7:34:22 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 26 17:37:58 CET 2012, officialWebsite=http://www.valgardena.it, top=2453, lng=11.761542137994, name=Val Gardena - Ortisei - Selva - Santa Cristina, liftCount=79, terrainPark=true, nightSkiing=true, region=Italy, lat=46.553389725087, skiMapUrl=https://skimap.org/data/2095/1/1354474958jpg_render.jpg, longestRun=11000}
+Feb 03, 2018 7:34:22 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2096
+Feb 03, 2018 7:34:22 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 27 00:51:54 CET 2010, officialWebsite=http://www.vialattea.it/, lng=6.8810423851013, name=Via Lattea (Sestriere, Sauze d'Oulx, Sansicario, Claviere), terrainPark=false, nightSkiing=false, region=Italy, lat=44.956329393354, skiMapUrl=https://skimap.org/data/2096/1647/1385134214jpg_render.jpg}
+Feb 03, 2018 7:34:22 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2097
+Feb 03, 2018 7:34:23 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 01 00:00:00 CET 1969, officialWebsite=http://www.rosskopf.com, lng=11.429686546326, name=Rosskopf (Vipiteno), liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=46.904263315411, skiMapUrl=https://skimap.org/data/2097/2205/1461482733jpg_render.jpg}
+Feb 03, 2018 7:34:23 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2153
+Feb 03, 2018 7:34:23 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13165
+Feb 03, 2018 7:34:23 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 07 09:15:26 CET 2007, lng=11.308751106262, name=Ratschings / Racines, terrainPark=false, nightSkiing=false, region=Italy, lat=46.864064375518, skiMapUrl=https://skimap.org/data/2153/2205/1496756523.jpg}
+Feb 03, 2018 7:34:23 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2281
+Feb 03, 2018 7:34:24 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8138
+Feb 03, 2018 7:34:24 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 13 19:18:49 CET 2012, officialWebsite=http://www.abetone.com/en/, top=1900, lng=10.664419470893, name=Abetone, liftCount=17, terrainPark=true, nightSkiing=false, region=Italy, lat=44.14578151565, skiMapUrl=https://skimap.org/data/2281/1899/1414623123.jpg, longestRun=3000}
+Feb 03, 2018 7:34:24 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2282
+Feb 03, 2018 7:34:24 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 12550
+Feb 03, 2018 7:34:24 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 05 19:43:38 CET 2008, officialWebsite=http://www.rittnerhorn.com, lng=11.445908546448, name=Rittnerhorn, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=46.576710297963, skiMapUrl=https://skimap.org/data/2282/2205/1488014533.jpg}
+Feb 03, 2018 7:34:24 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2283
+Feb 03, 2018 7:34:25 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 22 05:12:13 CET 2016, officialWebsite=http://www.reinswald.com, lng=11.421360969543, name=Reinswald (Pichlberg, Sarentino), liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=46.68786738605, skiMapUrl=https://skimap.org/data/2283/2205/1488014237jpg_render.jpg}
+Feb 03, 2018 7:34:25 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2284
+Feb 03, 2018 7:34:25 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 02 19:36:04 CET 2012, officialWebsite=http://www.pfelders.info, lng=11.090784072876, name=Pfelders, terrainPark=false, nightSkiing=false, region=Italy, lat=46.795652634997, skiMapUrl=https://skimap.org/data/2284/1/1233864290jpg_render.jpg}
+Feb 03, 2018 7:34:25 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2286
+Feb 03, 2018 7:34:26 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 05 20:22:08 CET 2008, officialWebsite=http://www.ladurns.it/, lng=11.38831615448, name=Ladurns, terrainPark=false, nightSkiing=false, region=Italy, lat=46.951551225558, skiMapUrl=https://skimap.org/data/2286/2205/1461482649jpg_render.jpg}
+Feb 03, 2018 7:34:26 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2287
+Feb 03, 2018 7:34:26 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 2647
+Feb 03, 2018 7:34:26 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 06 00:47:44 CET 2008, officialWebsite=http://www.welschnofen.com, lng=11.591477394104, name=Welschnofen - Karersee (Carezza), terrainPark=false, nightSkiing=false, region=Italy, lat=46.407948649986, skiMapUrl=https://skimap.org/data/2287/1/1233881392.jpg}
+Feb 03, 2018 7:34:26 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2404
+Feb 03, 2018 7:34:27 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 3865
+Feb 03, 2018 7:34:27 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 12:11:13 CET 2013, officialWebsite=http://www.brembanaski.com/, top=1160, lng=9.7586059570312, name=Foppolo - San Simone, liftCount=11, terrainPark=false, nightSkiing=false, region=Italy, lat=46.042229247552, skiMapUrl=https://skimap.org/data/2404/188/1263489875.jpg}
+Feb 03, 2018 7:34:27 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2441
+Feb 03, 2018 7:34:28 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 3902
+Feb 03, 2018 7:34:28 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 18 16:40:09 CET 2009, officialWebsite=http://www.monesiditriora.it/, top=2200, lng=7.7474856376648, name=Monesi, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=44.075284531526, skiMapUrl=https://skimap.org/data/2441/188/1266511502.jpg}
+Feb 03, 2018 7:34:28 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2478
+Feb 03, 2018 7:34:28 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13012
+Feb 03, 2018 7:34:28 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 02 10:32:52 CET 2009, officialWebsite=http://www.skiareavalchiavenna.it, top=2880, lng=9.3586778640747, name=Madesimo, liftCount=12, terrainPark=true, nightSkiing=true, region=Italy, lat=46.436969646216, skiMapUrl=https://skimap.org/data/2478/2205/1494168637.jpg, longestRun=5000}
+Feb 03, 2018 7:34:28 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2477
+Feb 03, 2018 7:34:29 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7868
+Feb 03, 2018 7:34:29 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 03 13:06:54 CET 2013, officialWebsite=http://www.montebue.com, lng=9.4735622406006, name=Santo Stefano D'Aveto, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=44.551304258402, skiMapUrl=https://skimap.org/data/2477/1758/1391432567.jpg}
+Feb 03, 2018 7:34:29 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2479
+Feb 03, 2018 7:34:29 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 02 10:48:22 CET 2009, officialWebsite=http://www.chamoisimpianti.it/, top=2512, lng=7.6212072372436, name=Chamois, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=45.839174838112, skiMapUrl=https://skimap.org/data/2479/2205/1494173988jpg_render.jpg}
+Feb 03, 2018 7:34:29 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2480
+Feb 03, 2018 7:34:30 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7636
+Feb 03, 2018 7:34:30 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 02 10:55:54 CET 2009, lng=7.6193618774414, name=La Magdeleine, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=45.810375578804, skiMapUrl=https://skimap.org/data/2480/1626/1384249269.jpg}
+Feb 03, 2018 7:34:30 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2481
+Feb 03, 2018 7:34:30 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 12946
+Feb 03, 2018 7:34:30 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 24 16:06:13 CET 2016, officialWebsite=http://www.valgerolaonline.it/, top=200, lng=9.5735120773315, name=Val Gerola, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=46.036896805409, skiMapUrl=https://skimap.org/data/2481/2205/1493049915.jpg, longestRun=3800}
+Feb 03, 2018 7:34:30 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2482
+Feb 03, 2018 7:34:31 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 02 16:30:12 CET 2009, officialWebsite=http://www.torgnon.info/, lng=7.5675630569458, name=Torgnon, liftCount=5, terrainPark=true, nightSkiing=false, region=Italy, lat=45.804542139207, skiMapUrl=https://skimap.org/data/2482/871/1440880216jpg_render.jpg}
+Feb 03, 2018 7:34:31 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2509
+Feb 03, 2018 7:34:31 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 03 16:01:30 CET 2009, officialWebsite=http://www.lathuile.net, top=2611, lng=6.9480800628662, name=La Thuile, liftCount=39, terrainPark=true, nightSkiing=false, region=Italy, lat=45.711153987632, skiMapUrl=https://skimap.org/data/2509/871/1340999967jpg_render.jpg}
+Feb 03, 2018 7:34:31 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2510
+Feb 03, 2018 7:34:32 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8185
+Feb 03, 2018 7:34:32 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 03 16:07:17 CET 2009, officialWebsite=http://www.mottaroneski.it/, top=1492, lng=8.4538078308106, name=Mottarone, liftCount=9, terrainPark=false, nightSkiing=false, region=Italy, lat=45.884810411722, skiMapUrl=https://skimap.org/data/2510/1899/1415474402.jpg}
+Feb 03, 2018 7:34:32 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2553
+Feb 03, 2018 7:34:32 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8104
+Feb 03, 2018 7:34:32 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 25 18:28:20 CET 2013, officialWebsite=http://www.montesanprimo.com/ski.html, top=1323, lng=9.233193397522, name=San Primo, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=45.922169598039, skiMapUrl=https://skimap.org/data/2553/1899/1414261814.jpg}
+Feb 03, 2018 7:34:32 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 2554
+Feb 03, 2018 7:34:33 PM skimap.Uploader fetchSkiMaps
+INFO: JSONArray[0] not found.
+Feb 03, 2018 7:34:33 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 3143
+Feb 03, 2018 7:34:33 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 9759
+Feb 03, 2018 7:34:33 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 27 17:25:14 CET 2012, officialWebsite=http://www.promotur.org/, top=1750, lng=13.570450210571, name=Tarvisio, liftCount=11, terrainPark=false, nightSkiing=false, region=Italy, lat=46.505101489468, skiMapUrl=https://skimap.org/data/3143/2205/1449312718.jpg, longestRun=4000}
+Feb 03, 2018 7:34:33 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 3151
+Feb 03, 2018 7:34:34 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 26 17:30:39 CET 2012, officialWebsite=http://www.plose.org, top=2446, lng=11.733333333333, name=Brixen Plose, liftCount=9, terrainPark=false, nightSkiing=false, region=Italy, lat=46.695555555556, skiMapUrl=https://skimap.org/data/3151/2205/1491294163jpg_render.jpg, longestRun=9000}
+Feb 03, 2018 7:34:34 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 3140
+Feb 03, 2018 7:34:34 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7712
+Feb 03, 2018 7:34:34 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 29 19:39:33 CET 2012, officialWebsite=http://www.brocon.it/, lng=11.660889053345, name=Passo Brocon, liftCount=2, terrainPark=false, nightSkiing=true, region=Italy, lat=46.11558362374, skiMapUrl=https://skimap.org/data/3140/1626/1385745527.jpg, longestRun=2360}
+Feb 03, 2018 7:34:34 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 3066
+Feb 03, 2018 7:34:35 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 12828
+Feb 03, 2018 7:34:35 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 29 19:43:29 CET 2012, officialWebsite=http://www.piancavallodolomitifriulane.it/, top=1865, lng=12.519024276734, name=Piancavallo, liftCount=12, terrainPark=false, nightSkiing=false, region=Italy, lat=46.107312734856, skiMapUrl=https://skimap.org/data/3066/2205/1491577713.jpg}
+Feb 03, 2018 7:34:35 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 3963
+Feb 03, 2018 7:34:35 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7179
+Feb 03, 2018 7:34:35 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 03 14:04:53 CET 2011, officialWebsite=http://www.bruncuspina.it/, top=1820, lng=9.3031200408936, name=Bruncu Spina, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=40.018843838535, skiMapUrl=https://skimap.org/data/3963/871/1358366231.jpg, longestRun=1000}
+Feb 03, 2018 7:34:35 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4194
+Feb 03, 2018 7:34:36 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7678
+Feb 03, 2018 7:34:36 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 15:24:22 CET 2012, officialWebsite=http://www.monterosa-ski.com/, top=2680, lng=7.7291568756104, name=Champoluc - Frachey, liftCount=44, terrainPark=true, nightSkiing=false, region=Italy, lat=45.836188643752, skiMapUrl=https://skimap.org/data/4194/1626/1385209671.jpg, longestRun=3545}
+Feb 03, 2018 7:34:36 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4195
+Feb 03, 2018 7:34:36 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 07:34:00 CET 2012, officialWebsite=http://www.monterosa-ski.com/, top=2680, lng=7.8237422943116, name=Gressoney - La Trinitè, liftCount=11, terrainPark=false, nightSkiing=true, region=Italy, lat=45.830806447939, skiMapUrl=https://skimap.org/data/4195/1626/1384068909jpg_render.jpg, longestRun=5507}
+Feb 03, 2018 7:34:36 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4196
+Feb 03, 2018 7:34:37 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 07:41:22 CET 2012, officialWebsite=http://www.monterosa-ski.com/, lng=7.6069339752198, name=Champorcher, liftCount=7, terrainPark=false, nightSkiing=false, region=Italy, lat=45.621695381756, skiMapUrl=https://skimap.org/data/4196/1626/1384069343jpg_render.jpg, longestRun=2608}
+Feb 03, 2018 7:34:37 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4197
+Feb 03, 2018 7:34:37 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7632
+Feb 03, 2018 7:34:37 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 07:48:02 CET 2012, officialWebsite=http://www.monterosa-ski.com/, lng=7.8345569610597, name=Gressoney Saint Jean, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=45.76222764194, skiMapUrl=https://skimap.org/data/4197/1626/1384246970.jpg, longestRun=3403}
+Feb 03, 2018 7:34:37 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4198
+Feb 03, 2018 7:34:38 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7630
+Feb 03, 2018 7:34:38 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 07:56:47 CET 2012, officialWebsite=http://www.monterosa-ski.com/, lng=7.6910480499268, name=Antagnod, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=45.81728886158, skiMapUrl=https://skimap.org/data/4198/1626/1384246841.jpg, longestRun=3901}
+Feb 03, 2018 7:34:38 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4199
+Feb 03, 2018 7:34:38 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7631
+Feb 03, 2018 7:34:38 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 08:05:23 CET 2012, officialWebsite=http://www.monterosa-ski.com/, lng=7.763660812378, name=Brusson, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=45.758844392053, skiMapUrl=https://skimap.org/data/4199/1626/1384246907.jpg, longestRun=2200}
+Feb 03, 2018 7:34:38 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4200
+Feb 03, 2018 7:34:39 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7788
+Feb 03, 2018 7:34:39 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 08:18:26 CET 2012, officialWebsite=http://www.lovevda.it/turismo/prima_di_partire/informazioni/pagina_ricerche_i.asp?tipo=scheda&pk=4153&nomesch=sch_Sport&ts=sport&strTitoloVit=Comprensorio%20del%20Col%20de%20Joux, top=1900, lng=7.7013906478883, name=Col de Joux, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=45.749801425373, skiMapUrl=https://skimap.org/data/4200/1626/1388238984.jpg, longestRun=2000}
+Feb 03, 2018 7:34:39 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4201
+Feb 03, 2018 7:34:39 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7633
+Feb 03, 2018 7:34:39 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 08:38:38 CET 2012, officialWebsite=http://www.cervinia.it, top=3480, lng=7.624443435669, name=Valtournenche, liftCount=20, terrainPark=false, nightSkiing=false, region=Italy, lat=45.888070214763, skiMapUrl=https://skimap.org/data/4201/1626/1384247830.jpg, longestRun=20000}
+Feb 03, 2018 7:34:39 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4202
+Feb 03, 2018 7:34:40 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7637
+Feb 03, 2018 7:34:40 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 26 18:09:14 CET 2012, officialWebsite=http://www.funiviegranparadiso.it/, top=2250, lng=7.3561367034913, name=Cogne, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=45.607646751522, skiMapUrl=https://skimap.org/data/4202/1626/1384249738.jpg, longestRun=2000}
+Feb 03, 2018 7:34:40 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4203
+Feb 03, 2018 7:34:40 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7629
+Feb 03, 2018 7:34:40 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 09:52:25 CET 2012, officialWebsite=http://www.rhemesnotredame.com/, top=2200, lng=7.1234711647035, name=Rhemes - Notre Dame, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=45.578772978001, skiMapUrl=https://skimap.org/data/4203/1626/1384244733.jpg, longestRun=470}
+Feb 03, 2018 7:34:40 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4204
+Feb 03, 2018 7:34:41 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7635
+Feb 03, 2018 7:34:41 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 10:02:38 CET 2012, officialWebsite=http://www.comune.ollomont.ao.it/, top=1474, lng=7.3090585708619, name=Ollomont, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=45.849701640835, skiMapUrl=https://skimap.org/data/4204/1626/1384248925.jpg, longestRun=1000}
+Feb 03, 2018 7:34:41 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4206
+Feb 03, 2018 7:34:41 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7628
+Feb 03, 2018 7:34:41 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 10 10:20:23 CET 2012, officialWebsite=http://www.skivalgrisenche.it/, top=1810, lng=7.0630249023438, name=Valgrisenche, liftCount=1, terrainPark=false, nightSkiing=false, region=Italy, lat=45.62913852843, skiMapUrl=https://skimap.org/data/4206/1626/1384244182.jpg, longestRun=2000}
+Feb 03, 2018 7:34:41 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4214
+Feb 03, 2018 7:34:42 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 13 20:00:12 CET 2012, officialWebsite=http://www.riservabianca.it/, top=2085, lng=7.5813564300538, name=Limone Piemonte, liftCount=15, terrainPark=true, nightSkiing=false, region=Italy, lat=44.198547416451, skiMapUrl=https://skimap.org/data/4214/2205/1488128481jpg_render.jpg, longestRun=6000}
+Feb 03, 2018 7:34:42 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4209
+Feb 03, 2018 7:34:42 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7642
+Feb 03, 2018 7:34:42 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 30 21:29:12 CET 2013, officialWebsite=http://www.monterosa-ski.com, top=3275, lng=7.9358800888062, name=Monterosa Ski, liftCount=36, terrainPark=false, nightSkiing=false, region=Italy, lat=45.853378282117, skiMapUrl=https://skimap.org/data/4209/1626/1384370893.jpg, longestRun=4000}
+Feb 03, 2018 7:34:42 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4210
+Feb 03, 2018 7:34:42 PM skimap.Uploader fetchSkiMaps
+INFO: JSONArray[0] not found.
+Feb 03, 2018 7:34:42 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4282
+Feb 03, 2018 7:34:43 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7765
+Feb 03, 2018 7:34:43 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 12 19:09:04 CET 2012, officialWebsite=http://www.monteterminillo.net/, top=2108, lng=12.990578079224, name=Terminillo, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=42.468776991628, skiMapUrl=https://skimap.org/data/4282/1626/1386961910.jpg, longestRun=2000}
+Feb 03, 2018 7:34:43 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4216
+Feb 03, 2018 7:34:43 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7660
+Feb 03, 2018 7:34:43 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 17 20:04:43 CET 2012, officialWebsite=http://www.sondrioevalmalenco.it/, top=2400, lng=9.8544963836671, name=Chiesa Valmalenco, liftCount=9, terrainPark=false, nightSkiing=false, region=Italy, lat=46.27261336314, skiMapUrl=https://skimap.org/data/4216/1626/1384759794.jpg, longestRun=2000}
+Feb 03, 2018 7:34:43 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4217
+Feb 03, 2018 7:34:44 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7657
+Feb 03, 2018 7:34:44 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 17 20:15:04 CET 2012, officialWebsite=http://www.sci-santacaterina.it/, top=2775, lng=10.49547996521, name=Santa Caterina Valfurva, liftCount=10, terrainPark=false, nightSkiing=false, region=Italy, lat=46.409550189301, skiMapUrl=https://skimap.org/data/4217/1626/1384759432.jpg}
+Feb 03, 2018 7:34:44 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4218
+Feb 03, 2018 7:34:44 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7659
+Feb 03, 2018 7:34:44 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 17 20:23:12 CET 2012, officialWebsite=http://www.arabba.it/index.php?page_id=1050&lang_id=1, top=3334, lng=11.874092483521, name=Arabba - Marmolada, liftCount=26, terrainPark=false, nightSkiing=false, region=Italy, lat=46.49671199291, skiMapUrl=https://skimap.org/data/4218/1626/1384759737.jpg}
+Feb 03, 2018 7:34:44 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4219
+Feb 03, 2018 7:34:45 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7655
+Feb 03, 2018 7:34:45 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 17 20:35:24 CET 2012, officialWebsite=http://www.asiago7comuni.to/it/home.htm, top=2336, lng=11.555488967896, name=Asiago, liftCount=14, terrainPark=true, nightSkiing=false, region=Italy, lat=45.863211355769, skiMapUrl=https://skimap.org/data/4219/1626/1384759201.jpg}
+Feb 03, 2018 7:34:45 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4220
+Feb 03, 2018 7:34:45 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7656
+Feb 03, 2018 7:34:45 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 17 20:44:08 CET 2012, officialWebsite=http://www.nevelandia.it/, top=2100, lng=12.700298690796, name=Sappada, liftCount=9, terrainPark=true, nightSkiing=true, region=Italy, lat=46.568984579457, skiMapUrl=https://skimap.org/data/4220/1626/1384759358.jpg, longestRun=3000}
+Feb 03, 2018 7:34:45 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4221
+Feb 03, 2018 7:34:46 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8915
+Feb 03, 2018 7:34:46 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 18 07:46:27 CET 2012, officialWebsite=http://www.auronzomisurina.it, top=1585, lng=12.421348953247, name=Auronzo di Cadore, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=46.556945827257, skiMapUrl=https://skimap.org/data/4221/2205/1444163600.jpg}
+Feb 03, 2018 7:34:46 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4222
+Feb 03, 2018 7:34:46 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 04 08:38:26 CET 2016, officialWebsite=http://www.passosanpellegrino.it/inverno/, top=2520, lng=11.785343551636, name=Falcade - Passo San Pellegrino, liftCount=11, terrainPark=true, nightSkiing=false, region=Italy, lat=46.377701970866, skiMapUrl=https://skimap.org/data/4222/2205/1491295065jpg_render.jpg, longestRun=3700}
+Feb 03, 2018 7:34:46 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4224
+Feb 03, 2018 7:34:47 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7666
+Feb 03, 2018 7:34:47 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 19 07:48:56 CET 2012, officialWebsite=http://www.fassa.it, top=2428, lng=11.788090133667, name=Alba di Canazei - Ciampac, liftCount=6, terrainPark=false, nightSkiing=false, region=Italy, lat=46.459830129112, skiMapUrl=https://skimap.org/data/4224/1626/1384887602.jpg, longestRun=3250}
+Feb 03, 2018 7:34:47 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4225
+Feb 03, 2018 7:34:47 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 19 08:00:40 CET 2012, officialWebsite=http://www.paganella.net/, top=2125, lng=11.002396011353, name=Andalo - Fai della Paganella, liftCount=19, terrainPark=false, nightSkiing=false, region=Italy, lat=46.162686156345, skiMapUrl=https://skimap.org/data/4225/2205/1494715246jpg_render.jpg, longestRun=3500}
+Feb 03, 2018 7:34:47 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4226
+Feb 03, 2018 7:34:48 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7664
+Feb 03, 2018 7:34:48 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 19 08:12:21 CET 2012, officialWebsite=http://www.skiareaalpelusia.it/, top=2340, lng=11.68766822815, name=Bellamonte - Alpe Lusia, liftCount=9, terrainPark=true, nightSkiing=false, region=Italy, lat=46.31276408498, skiMapUrl=https://skimap.org/data/4226/1626/1384887071.jpg, longestRun=3000}
+Feb 03, 2018 7:34:48 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4227
+Feb 03, 2018 7:34:48 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7708
+Feb 03, 2018 7:34:48 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 20 19:35:54 CET 2012, officialWebsite=http://www.folgariaski.com/, top=1900, lng=11.177490615845, name=Folgaria, liftCount=25, terrainPark=false, nightSkiing=false, region=Italy, lat=45.915187144711, skiMapUrl=https://skimap.org/data/4227/1626/1385660597.jpg, longestRun=4000}
+Feb 03, 2018 7:34:48 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4229
+Feb 03, 2018 7:34:50 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7673
+Feb 03, 2018 7:34:50 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 20 20:02:45 CET 2012, officialWebsite=http://www.visitfiemme.it/, top=2415, lng=11.544845962525, name=Pampeago - Predazzo - Obereggen, liftCount=34, terrainPark=false, nightSkiing=false, region=Italy, lat=46.319403612011, skiMapUrl=https://skimap.org/data/4229/1626/1385110869.jpg}
+Feb 03, 2018 7:34:50 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4230
+Feb 03, 2018 7:34:50 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7683
+Feb 03, 2018 7:34:50 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 22 16:28:37 CET 2012, officialWebsite=http://www.fassa.com/, top=2095, lng=11.671703720093, name=Vigo di Fassa - Pera - Ciampedie, liftCount=6, terrainPark=true, nightSkiing=false, region=Italy, lat=46.420438251621, skiMapUrl=https://skimap.org/data/4230/1626/1385361887.jpg, longestRun=4850}
+Feb 03, 2018 7:34:50 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4231
+Feb 03, 2018 7:34:51 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7682
+Feb 03, 2018 7:34:51 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 22 16:36:19 CET 2012, officialWebsite=http://www.fassa.com/, top=2354, lng=11.697109603882, name=Pozza di Fassa - Buffaure, liftCount=7, terrainPark=true, nightSkiing=false, region=Italy, lat=46.428011273708, skiMapUrl=https://skimap.org/data/4231/1626/1385361801.jpg, longestRun=6650}
+Feb 03, 2018 7:34:51 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4233
+Feb 03, 2018 7:34:51 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13094
+Feb 03, 2018 7:34:51 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 22 17:50:44 CET 2012, officialWebsite=http://www.valdisole.net/, top=2334, lng=10.669716262817, name=Pejo, liftCount=6, terrainPark=false, nightSkiing=false, region=Italy, lat=46.357328312779, skiMapUrl=https://skimap.org/data/4233/1/1494776457.jpg, longestRun=3180}
+Feb 03, 2018 7:34:51 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4236
+Feb 03, 2018 7:34:52 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7690
+Feb 03, 2018 7:34:52 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 25 19:56:28 CET 2012, officialWebsite=http://www.alpedisiusi.info/, top=2000, lng=11.562355422974, name=Alpe di Siusi - Seiser Alm, liftCount=24, terrainPark=true, nightSkiing=true, region=Italy, lat=46.540181547397, skiMapUrl=https://skimap.org/data/4236/1626/1385480674.jpg, longestRun=3000}
+Feb 03, 2018 7:34:52 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4239
+Feb 03, 2018 7:34:52 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 25 20:23:18 CET 2012, officialWebsite=http://www.eggental.com/, top=2337, lng=11.591537857056, name=Carezza - Passo di Costalunga, liftCount=16, terrainPark=true, nightSkiing=true, region=Italy, lat=46.407774755634, skiMapUrl=https://skimap.org/data/4239/2205/1488015575jpg_render.jpg}
+Feb 03, 2018 7:34:52 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4245
+Feb 03, 2018 7:34:53 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7702
+Feb 03, 2018 7:34:53 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 26 17:50:21 CET 2012, officialWebsite=http://www.schnalstal.com/, top=3212, lng=10.782669448853, name=Val Senales, liftCount=12, terrainPark=true, nightSkiing=false, region=Italy, lat=46.756184526491, skiMapUrl=https://skimap.org/data/4245/1626/1385571154.jpg, longestRun=8000}
+Feb 03, 2018 7:34:53 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4246
+Feb 03, 2018 7:34:53 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 26 17:58:09 CET 2012, officialWebsite=http://www.ultental-deutschnonsberg.info/de/ski-und-wandergebiet-schwemmalm.html, top=2625, lng=10.955532455444, name=Val d'Ultimo - Ultental, liftCount=6, terrainPark=false, nightSkiing=false, region=Italy, lat=46.528018301646, skiMapUrl=https://skimap.org/data/4246/2205/1444215913jpg_render.jpg, longestRun=2500}
+Feb 03, 2018 7:34:53 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4261
+Feb 03, 2018 7:34:54 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 29 16:56:56 CET 2012, officialWebsite=http://www.sci-gitschberg-jochtal.com/, top=2100, lng=11.655395889282, name=Maranza - Gitschberg - Valles, liftCount=16, terrainPark=false, nightSkiing=false, region=Italy, lat=46.808963730446, skiMapUrl=https://skimap.org/data/4261/2205/1461484616jpg_render.jpg}
+Feb 03, 2018 7:34:54 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4276
+Feb 03, 2018 7:34:54 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11186
+Feb 03, 2018 7:34:54 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 01 17:20:15 CET 2012, officialWebsite=http://www.ovindolimagnola.it/, top=1500, lng=13.4950050354, name=Ovindoli, liftCount=11, terrainPark=false, nightSkiing=false, region=Italy, lat=42.150141068865, skiMapUrl=https://skimap.org/data/4276/2205/1461487961.jpg}
+Feb 03, 2018 7:34:55 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4275
+Feb 03, 2018 7:34:55 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11191
+Feb 03, 2018 7:34:55 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 01 17:10:14 CET 2012, officialWebsite=http://www.ilgransasso.it/, top=1100, lng=13.559292221069, name=Campo Imperatore, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=42.442053367754, skiMapUrl=https://skimap.org/data/4275/2205/1461575425.jpg}
+Feb 03, 2018 7:34:55 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4272
+Feb 03, 2018 7:34:55 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 9761
+Feb 03, 2018 7:34:55 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 29 19:50:55 CET 2012, officialWebsite=http://www.promotur.org/, top=2000, lng=12.920540237427, name=Ravascletto - Zoncolan, liftCount=12, terrainPark=true, nightSkiing=false, region=Italy, lat=46.521758482567, skiMapUrl=https://skimap.org/data/4272/2205/1449313245.jpg, longestRun=3000}
+Feb 03, 2018 7:34:55 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4273
+Feb 03, 2018 7:34:56 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7719
+Feb 03, 2018 7:34:56 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 29 19:57:21 CET 2012, officialWebsite=http://www.promotur.org/, top=2067, lng=12.570007705689, name=Forni di sopra - Sauris, liftCount=5, terrainPark=true, nightSkiing=true, region=Italy, lat=46.425053187162, skiMapUrl=https://skimap.org/data/4273/1626/1385799761.jpg, longestRun=3000}
+Feb 03, 2018 7:34:56 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4277
+Feb 03, 2018 7:34:56 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 7729
+Feb 03, 2018 7:34:56 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 01 17:28:02 CET 2012, officialWebsite=http://www.sciareapescasseroli.it/, top=1940, lng=13.76545753479, name=Pescasseroli, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=41.8147979533, skiMapUrl=https://skimap.org/data/4277/1626/1386012344.png}
+Feb 03, 2018 7:34:56 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4288
+Feb 03, 2018 7:34:57 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13529
+Feb 03, 2018 7:34:57 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 16 10:38:33 CET 2012, officialWebsite=http://www.cervinia.it/pages/Home_i_it/160, top=3480, lng=7.6316532135011, name=Cervinia - Breuil, liftCount=20, terrainPark=true, nightSkiing=true, region=Italy, lat=45.933456722748, skiMapUrl=https://skimap.org/data/4288/2921/1508503016.jpg, longestRun=20000}
+Feb 03, 2018 7:34:57 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4399
+Feb 03, 2018 7:34:57 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8118
+Feb 03, 2018 7:34:57 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 25 18:20:32 CET 2013, officialWebsite=http://www.domobianca.it/, top=1088, lng=8.2558998107911, name=Domobianca, liftCount=6, terrainPark=true, nightSkiing=true, region=Italy, lat=46.10302804545, skiMapUrl=https://skimap.org/data/4399/1899/1414408345.jpg, longestRun=1527}
+Feb 03, 2018 7:34:57 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4401
+Feb 03, 2018 7:34:58 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 12952
+Feb 03, 2018 7:34:58 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 25 18:44:06 CET 2013, officialWebsite=http://www.alpedelnevegal.it/, top=1000, lng=12.265480422974, name=Nevegal, liftCount=8, terrainPark=false, nightSkiing=false, region=Italy, lat=46.066058776029, skiMapUrl=https://skimap.org/data/4401/2205/1493053323.jpg}
+Feb 03, 2018 7:34:58 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4402
+Feb 03, 2018 7:34:58 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8120
+Feb 03, 2018 7:34:58 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 25 18:52:21 CET 2013, officialWebsite=http://www.comprensoriosciisticomonteavena.com/, top=1450, lng=11.828430557251, name=Monte Avena, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=46.039849772973, skiMapUrl=https://skimap.org/data/4402/1899/1414408515.jpg}
+Feb 03, 2018 7:34:58 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4403
+Feb 03, 2018 7:34:59 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8119
+Feb 03, 2018 7:34:59 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 25 19:00:12 CET 2013, officialWebsite=, top=1450, lng=11.97382774353, name=Forcella Aurine, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=46.236292252594, skiMapUrl=https://skimap.org/data/4403/1899/1414408433.jpg}
+Feb 03, 2018 7:34:59 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4404
+Feb 03, 2018 7:34:59 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8125
+Feb 03, 2018 7:34:59 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 25 19:06:00 CET 2013, officialWebsite=, top=1920, lng=12.585972213745, name=Sella Ciampigotto - Casera Razzo, liftCount=1, terrainPark=true, nightSkiing=false, region=Italy, lat=46.48607555927, skiMapUrl=https://skimap.org/data/4404/1899/1414409440.jpg}
+Feb 03, 2018 7:34:59 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4405
+Feb 03, 2018 7:35:00 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8121
+Feb 03, 2018 7:35:00 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 25 19:12:00 CET 2013, officialWebsite=http://www.valcomelicodolomiti.it/it/inverno/impianti-e-piste-da-sci.html, top=2000, lng=12.474563980103, name=Padola, liftCount=1, terrainPark=false, nightSkiing=false, region=Italy, lat=46.604377191287, skiMapUrl=https://skimap.org/data/4405/1899/1414408591.jpg, longestRun=4700}
+Feb 03, 2018 7:35:00 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4406
+Feb 03, 2018 7:35:00 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8123
+Feb 03, 2018 7:35:00 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 25 19:20:24 CET 2013, officialWebsite=http://www.skiareasanvito.com/, top=1580, lng=12.214325332642, name=San Vito di Cadore, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=46.457938077601, skiMapUrl=https://skimap.org/data/4406/1899/1414408849.jpg}
+Feb 03, 2018 7:35:00 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4407
+Feb 03, 2018 7:35:01 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8127
+Feb 03, 2018 7:35:01 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Wed Dec 25 19:28:31 CET 2013, officialWebsite=http://www.skicivetta.com/, top=2100, lng=12.076652908325, name=Ski Civetta, liftCount=23, terrainPark=false, nightSkiing=true, region=Italy, lat=46.409431828855, skiMapUrl=https://skimap.org/data/4407/1899/1414409702.jpg}
+Feb 03, 2018 7:35:01 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4411
+Feb 03, 2018 7:35:01 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8197
+Feb 03, 2018 7:35:01 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 05 20:29:52 CET 2013, officialWebsite=http://www.lavaroneski.it/, top=1650, lng=11.303146743775, name=Lavarone Ski, liftCount=15, terrainPark=false, nightSkiing=false, region=Italy, lat=45.959119491639, skiMapUrl=https://skimap.org/data/4411/1899/1415529101.jpg, longestRun=3200}
+Feb 03, 2018 7:35:01 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4412
+Feb 03, 2018 7:35:02 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8201
+Feb 03, 2018 7:35:02 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 05 22:03:24 CET 2013, officialWebsite=http://www.panarotta.it/, top=2002, lng=11.318939590454, name=Panarotta, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=46.05176449806, skiMapUrl=https://skimap.org/data/4412/1899/1415529588.jpg}
+Feb 03, 2018 7:35:02 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4414
+Feb 03, 2018 7:35:02 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8203
+Feb 03, 2018 7:35:02 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 07 19:02:39 CET 2013, officialWebsite=http://www.recoaromille.net/, top=1580, lng=11.218174362183, name=Recoaro Mille, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=45.677494893236, skiMapUrl=https://skimap.org/data/4414/1899/1415529823.jpg}
+Feb 03, 2018 7:35:02 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4415
+Feb 03, 2018 7:35:03 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8198
+Feb 03, 2018 7:35:03 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 00:05:16 CET 2013, officialWebsite=http://malgasangiorgio.net/, top=1805, name=Malga San Giorgio, liftCount=4, terrainPark=false, nightSkiing=true, region=Italy, skiMapUrl=https://skimap.org/data/4415/1899/1415529274.jpg}
+Feb 03, 2018 7:35:03 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4416
+Feb 03, 2018 7:35:03 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8221
+Feb 03, 2018 7:35:03 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 00:15:18 CET 2013, officialWebsite=http://www.brentonicoski.com/, top=1550, lng=10.943687820435, name=Brentonico Ski, liftCount=8, terrainPark=true, nightSkiing=false, region=Italy, lat=45.780786955167, skiMapUrl=https://skimap.org/data/4416/1899/1415550238.gif}
+Feb 03, 2018 7:35:03 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4417
+Feb 03, 2018 7:35:04 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8202
+Feb 03, 2018 7:35:04 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 09:22:17 CET 2013, officialWebsite=, top=1600, lng=11.18847694397, name=Passo Mendola - Ruffrè, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=46.417006379643, skiMapUrl=https://skimap.org/data/4417/1899/1415529668.jpg}
+Feb 03, 2018 7:35:04 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4418
+Feb 03, 2018 7:35:04 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 09:39:25 CET 2013, officialWebsite=http://www.speikboden.it/, top=2510, lng=11.924217605591, name=Speikboden - Klausberg, liftCount=18, terrainPark=true, nightSkiing=false, region=Italy, lat=46.951174007879, skiMapUrl=https://skimap.org/data/4418/2205/1494077985jpg_render.jpg}
+Feb 03, 2018 7:35:05 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4419
+Feb 03, 2018 7:35:05 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8215
+Feb 03, 2018 7:35:05 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 09:50:56 CET 2013, officialWebsite=http://www.ortlerskiarena.com/it/aree-sciistiche/val-venosta/maseben.html, top=2450, lng=10.65323677063, name=Vallelunga - Maseben, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=46.830107902578, skiMapUrl=https://skimap.org/data/4419/1899/1415530918.jpg}
+Feb 03, 2018 7:35:05 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4420
+Feb 03, 2018 7:35:05 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 12528
+Feb 03, 2018 7:35:05 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 09:56:34 CET 2013, officialWebsite=http://www.ortlerskiarena.com/it/aree-sciistiche/val-venosta/watles, top=2450, lng=10.507839584351, name=Watles, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=46.70311813458, skiMapUrl=https://skimap.org/data/4420/2205/1487781064.jpg}
+Feb 03, 2018 7:35:05 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4421
+Feb 03, 2018 7:35:06 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8204
+Feb 03, 2018 7:35:06 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 22 09:33:49 CET 2016, officialWebsite=http://www.ortlerskiarena.com/it/aree-sciistiche/val-venosta/malga-san-valentino.html, top=2620, lng=10.531443023682, name=San Valentino alla Muta (Haideralm), liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=46.764886664681, skiMapUrl=https://skimap.org/data/4421/1899/1415529998.jpg}
+Feb 03, 2018 7:35:06 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4422
+Feb 03, 2018 7:35:07 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8206
+Feb 03, 2018 7:35:07 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 10:11:50 CET 2013, officialWebsite=http://www.schoeneben.it/it/estate/paradiso-dello-sci/index.asp, top=2390, lng=10.512474441528, name=Schoneben - Belpiano, liftCount=9, terrainPark=false, nightSkiing=false, region=Italy, lat=46.818362166823, skiMapUrl=https://skimap.org/data/4422/1899/1415530287.jpg}
+Feb 03, 2018 7:35:07 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4423
+Feb 03, 2018 7:35:07 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8212
+Feb 03, 2018 7:35:07 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 10:16:46 CET 2013, officialWebsite=http://www.trafoi.com/, top=2400, lng=10.509212875366, name=Trafoi, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=46.552105968251, skiMapUrl=https://skimap.org/data/4423/1899/1415530739.jpg}
+Feb 03, 2018 7:35:07 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4424
+Feb 03, 2018 7:35:08 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8223
+Feb 03, 2018 7:35:08 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 19:45:05 CET 2013, officialWebsite=http://www.bornoturismo.it/inverno-sci/, top=1635, lng=10.17773475647, name=Borno, liftCount=6, terrainPark=false, nightSkiing=false, region=Italy, lat=45.935366919368, skiMapUrl=https://skimap.org/data/4424/1899/1415550309.jpg}
+Feb 03, 2018 7:35:08 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4425
+Feb 03, 2018 7:35:08 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8196
+Feb 03, 2018 7:35:08 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 19:49:23 CET 2013, officialWebsite=http://www.colereski.it/, top=2250, lng=10.073707962036, name=Colere, liftCount=6, terrainPark=false, nightSkiing=false, region=Italy, lat=45.975227251398, skiMapUrl=https://skimap.org/data/4425/1899/1415528965.jpg, longestRun=8000}
+Feb 03, 2018 7:35:08 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4426
+Feb 03, 2018 7:35:09 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8205
+Feb 03, 2018 7:35:09 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 08 19:57:47 CET 2013, officialWebsite=http://www.skilpario.it/, top=1750, lng=10.161770248413, name=Schilpario, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=46.006951797219, skiMapUrl=https://skimap.org/data/4426/1899/1415530123.jpg}
+Feb 03, 2018 7:35:09 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4427
+Feb 03, 2018 7:35:09 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8296
+Feb 03, 2018 7:35:09 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 11:18:57 CET 2013, officialWebsite=http://www.alpeteglio.it/inverno.php, top=2380, lng=10.054138565064, name=Teglio, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=46.19026286162, skiMapUrl=https://skimap.org/data/4427/1899/1415630667.jpg}
+Feb 03, 2018 7:35:09 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4428
+Feb 03, 2018 7:35:10 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11179
+Feb 03, 2018 7:35:10 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 11:24:57 CET 2013, officialWebsite=http://www.meletteduemila.com/, top=1735, lng=11.561754608154, name=Melette 2000, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=45.91948641024, skiMapUrl=https://skimap.org/data/4428/2205/1461484800.jpg}
+Feb 03, 2018 7:35:10 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4429
+Feb 03, 2018 7:35:10 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8287
+Feb 03, 2018 7:35:10 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 26 21:58:28 CET 2017, officialWebsite=http://www.sangiacomocardiniski.com/, top=1600, lng=7.8798755645753, name=Sangiacomo Cardini ski, liftCount=8, terrainPark=false, nightSkiing=false, region=Italy, lat=44.273018510231, skiMapUrl=https://skimap.org/data/4429/1899/1415630231.jpg}
+Feb 03, 2018 7:35:10 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4430
+Feb 03, 2018 7:35:11 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13524
+Feb 03, 2018 7:35:11 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 11:43:14 CET 2013, officialWebsite=http://www.presolanamontepora.it/, top=1880, lng=10.066498184204, name=Presolana Monte Pora, liftCount=12, terrainPark=false, nightSkiing=false, region=Italy, lat=45.916978545829, skiMapUrl=https://skimap.org/data/4430/2914/1508179540.jpg}
+Feb 03, 2018 7:35:11 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4431
+Feb 03, 2018 7:35:11 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8292
+Feb 03, 2018 7:35:11 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 11:49:00 CET 2013, officialWebsite=http://www.spiazzidigromo.it, top=1718, lng=9.9597248077393, name=Spiazzi di Gromo, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=45.970514724956, skiMapUrl=https://skimap.org/data/4431/1899/1415630533.gif}
+Feb 03, 2018 7:35:11 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4432
+Feb 03, 2018 7:35:12 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8260
+Feb 03, 2018 7:35:12 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 11:55:20 CET 2013, officialWebsite=http://www.lizzolasci.it/, top=1950, lng=10.011351966858, name=Lizzola, liftCount=6, terrainPark=false, nightSkiing=false, region=Italy, lat=46.023522427586, skiMapUrl=https://skimap.org/data/4432/1899/1415628458.jpg}
+Feb 03, 2018 7:35:12 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4433
+Feb 03, 2018 7:35:13 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8300
+Feb 03, 2018 7:35:13 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 12:04:04 CET 2013, officialWebsite=http://www.sciclubvalserina.it/, top=1450, lng=9.7772487640382, name=Val Serina, liftCount=1, terrainPark=false, nightSkiing=false, region=Italy, lat=45.882932035545, skiMapUrl=https://skimap.org/data/4433/1899/1415630933.jpg}
+Feb 03, 2018 7:35:13 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4434
+Feb 03, 2018 7:35:13 PM skimap.Uploader fetchSkiMaps
+INFO: JSONArray[0] not found.
+Feb 03, 2018 7:35:13 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4436
+Feb 03, 2018 7:35:13 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8279
+Feb 03, 2018 7:35:13 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 12:14:00 CET 2013, officialWebsite=http://www.piazzatorre.eu/, top=1780, lng=9.7053655624391, name=Piazzatorre, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=45.997024923483, skiMapUrl=https://skimap.org/data/4436/1899/1415629554.jpg}
+Feb 03, 2018 7:35:13 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4437
+Feb 03, 2018 7:35:14 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8282
+Feb 03, 2018 7:35:14 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 12:20:03 CET 2013, officialWebsite=http://www.pianidibobbio.com/, top=1900, lng=9.4937500000001, name=Piani di Bobbio, liftCount=8, terrainPark=false, nightSkiing=false, region=Italy, lat=45.961923771717, skiMapUrl=https://skimap.org/data/4437/1899/1415629793.jpg}
+Feb 03, 2018 7:35:14 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4438
+Feb 03, 2018 7:35:15 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8258
+Feb 03, 2018 7:35:15 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 12:28:00 CET 2013, officialWebsite=http://www.manivaski.it/, top=2084, lng=10.411880874634, name=Maniva, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=45.82781611424, skiMapUrl=https://skimap.org/data/4438/1899/1415628339.jpg}
+Feb 03, 2018 7:35:15 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4439
+Feb 03, 2018 7:35:15 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8283
+Feb 03, 2018 7:35:15 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 13:09:07 CET 2013, officialWebsite=http://www.pianadivigezzo.it/, top=2064, lng=8.4827503204347, name=Piana di Vigezzo, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=46.162686156345, skiMapUrl=https://skimap.org/data/4439/1899/1415629841.jpg}
+Feb 03, 2018 7:35:15 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4440
+Feb 03, 2018 7:35:16 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8249
+Feb 03, 2018 7:35:16 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 13:14:20 CET 2013, officialWebsite=http://www.formazzaski.com/, top=1780, lng=8.426445388794, name=Formazza Ski, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=46.374148972962, skiMapUrl=https://skimap.org/data/4440/1899/1415627807.jpg}
+Feb 03, 2018 7:35:16 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4441
+Feb 03, 2018 7:35:16 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 12941
+Feb 03, 2018 7:35:16 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 13:18:54 CET 2013, officialWebsite=http://www.alpedimera.mobi/it/, top=1722, lng=8.0901607513429, name=Alpe di Mera , liftCount=4, terrainPark=true, nightSkiing=false, region=Italy, lat=45.751568212844, skiMapUrl=https://skimap.org/data/4441/2205/1492938737.jpg}
+Feb 03, 2018 7:35:16 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4442
+Feb 03, 2018 7:35:17 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 9596
+Feb 03, 2018 7:35:17 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 22:20:32 CET 2013, officialWebsite=http://www.funivieoropa.it/, top=2391, lng=7.9778942108155, name=Oropa, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=45.628658355242, skiMapUrl=https://skimap.org/data/4442/2205/1448464216.jpg}
+Feb 03, 2018 7:35:17 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4443
+Feb 03, 2018 7:35:17 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 9075
+Feb 03, 2018 7:35:17 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 13:34:12 CET 2013, officialWebsite=http://www.pianbenot.it, top=2040, lng=7.2313388824464, name=Pian Benot, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=45.22144158621, skiMapUrl=https://skimap.org/data/4443/1910/1445098243.jpg}
+Feb 03, 2018 7:35:17 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4444
+Feb 03, 2018 7:35:18 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8278
+Feb 03, 2018 7:35:18 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 13:46:21 CET 2013, officialWebsite=http://www.nuova13laghi.com/, top=2540, lng=7.0406230926515, name=Prali, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=44.877376877176, skiMapUrl=https://skimap.org/data/4444/1899/1415629476.jpg}
+Feb 03, 2018 7:35:18 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4445
+Feb 03, 2018 7:35:18 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11133
+Feb 03, 2018 7:35:18 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 13:54:21 CET 2013, officialWebsite=http://www.comune.sampeyre.cn.it/Impianti.php, top=1850, lng=7.1814712524415, name=Sampeyre, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=44.576930474519, skiMapUrl=https://skimap.org/data/4445/2205/1461144315.jpg}
+Feb 03, 2018 7:35:18 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4446
+Feb 03, 2018 7:35:19 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8243
+Feb 03, 2018 7:35:19 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 14:00:20 CET 2013, officialWebsite=, top=2520, lng=6.9631179809571, name=Bersezio - Argentera, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=44.386265921829, skiMapUrl=https://skimap.org/data/4446/1899/1415627357.jpg}
+Feb 03, 2018 7:35:19 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4447
+Feb 03, 2018 7:35:20 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8293
+Feb 03, 2018 7:35:20 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 26 21:47:53 CET 2017, officialWebsite=http://www.stgree.net/, top=1660, lng=7.9554065704347, name=St. Gree di Viola, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=44.275538177737, skiMapUrl=https://skimap.org/data/4447/1899/1415630565.jpg}
+Feb 03, 2018 7:35:20 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4448
+Feb 03, 2018 7:35:20 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8264
+Feb 03, 2018 7:35:20 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 14:10:50 CET 2013, officialWebsite=http://garessio2000ski.it/IT/piste.php, top=1920, lng=7.9368671417237, name=Garessio 2000, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=44.214421165228, skiMapUrl=https://skimap.org/data/4448/1899/1415628703.jpg}
+Feb 03, 2018 7:35:20 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4449
+Feb 03, 2018 7:35:21 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11132
+Feb 03, 2018 7:35:21 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 14:20:27 CET 2013, officialWebsite=http://www.pratospilla.pr.it/, top=1720, lng=10.110443496704, name=Prato Spilla, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=44.360835768289, skiMapUrl=https://skimap.org/data/4449/2205/1461143365.jpg}
+Feb 03, 2018 7:35:21 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4450
+Feb 03, 2018 7:35:21 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8302
+Feb 03, 2018 7:35:21 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 14:24:49 CET 2013, officialWebsite=http://www.zumzeri.net/, top=1584, lng=9.7534307479859, name=Zum Zeri, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=44.388136703225, skiMapUrl=https://skimap.org/data/4450/1899/1415630996.jpg}
+Feb 03, 2018 7:35:21 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4451
+Feb 03, 2018 7:35:22 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8246
+Feb 03, 2018 7:35:22 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 10 09:38:52 CET 2017, officialWebsite=http://cerretolaghi.info/, top=1870, lng=10.243910217285, name=Cerreto Laghi, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=44.297780310246, skiMapUrl=https://skimap.org/data/4451/1899/1415627591.jpg}
+Feb 03, 2018 7:35:22 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4452
+Feb 03, 2018 7:35:22 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11130
+Feb 03, 2018 7:35:22 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 10 09:32:42 CET 2017, officialWebsite=http://www.infofebbio.com/, top=2063, lng=10.428102874756, name=Febbio, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=44.296551682945, skiMapUrl=https://skimap.org/data/4452/2205/1461142278.jpg, longestRun=3500}
+Feb 03, 2018 7:35:22 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4453
+Feb 03, 2018 7:35:23 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8286
+Feb 03, 2018 7:35:23 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 05 00:47:29 CET 2016, officialWebsite=, top=1580, lng=10.548780822754, name=Sant'Annapelago, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=44.188854943821, skiMapUrl=https://skimap.org/data/4453/1899/1415630161.jpg}
+Feb 03, 2018 7:35:23 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4455
+Feb 03, 2018 7:35:23 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8253
+Feb 03, 2018 7:35:23 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 14:59:07 CET 2013, officialWebsite=http://www.cornoallescale.net, top=1945, lng=10.8143409729, name=Corno alle Scale, liftCount=6, terrainPark=true, nightSkiing=false, region=Italy, lat=44.130882250317, skiMapUrl=https://skimap.org/data/4455/1899/1415628049.jpg}
+Feb 03, 2018 7:35:23 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4456
+Feb 03, 2018 7:35:27 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8265
+Feb 03, 2018 7:35:27 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 15:05:07 CET 2013, officialWebsite=http://www.eremomontecarpegna.it/, top=1400, lng=12.333715820313, name=Monte Carpegna, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=43.806322401868, skiMapUrl=https://skimap.org/data/4456/1899/1415628838.jpg}
+Feb 03, 2018 7:35:27 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4457
+Feb 03, 2018 7:35:28 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8268
+Feb 03, 2018 7:35:28 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 15:12:32 CET 2013, officialWebsite=http://www.montecatria.com/, top=1510, lng=12.691715621948, name=Monte Catria, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=43.479678062367, skiMapUrl=https://skimap.org/data/4457/1899/1415628973.jpg}
+Feb 03, 2018 7:35:28 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4458
+Feb 03, 2018 7:35:28 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8299
+Feb 03, 2018 7:35:28 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 15:18:16 CET 2013, officialWebsite=http://www.ussita-frontignano.com/, lng=13.15417137146, name=Ussita - Frontignano, liftCount=7, terrainPark=false, nightSkiing=false, region=Italy, lat=42.917938890909, skiMapUrl=https://skimap.org/data/4458/1899/1415630764.jpg, longestRun=1950}
+Feb 03, 2018 7:35:28 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4459
+Feb 03, 2018 7:35:29 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 15:25:33 CET 2013, officialWebsite=http://www.majellettawe.it/, top=1990, lng=14.103630447388, name=Passo Lanciano - Majelletta, liftCount=8, terrainPark=true, nightSkiing=false, region=Italy, lat=42.189136639332, skiMapUrl=https://skimap.org/data/4459/2205/1461146411jpg_render.jpg}
+Feb 03, 2018 7:35:29 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4460
+Feb 03, 2018 7:35:29 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8245
+Feb 03, 2018 7:35:29 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 15:31:18 CET 2013, officialWebsite=http://www.campodigioveimpianti.it/, top=2020, lng=14.071701431275, name=Campo di Giove, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=41.995704553971, skiMapUrl=https://skimap.org/data/4460/1899/1415627450.jpg}
+Feb 03, 2018 7:35:29 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4461
+Feb 03, 2018 7:35:30 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8262
+Feb 03, 2018 7:35:30 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 09 15:37:25 CET 2013, officialWebsite=http://www.skilaceno.com/, top=1620, lng=15.103386306763, name=Lago Laceno, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=40.796499171074, skiMapUrl=https://skimap.org/data/4461/1899/1415628642.jpg}
+Feb 03, 2018 7:35:30 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4464
+Feb 03, 2018 7:35:30 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8335
+Feb 03, 2018 7:35:30 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 20:12:19 CET 2013, officialWebsite=http://www.schiamontecaio.it/, top=1500, lng=10.16983833313, name=Schia - Monte Caio, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=44.473944274364, skiMapUrl=https://skimap.org/data/4464/1899/1415892621.jpg}
+Feb 03, 2018 7:35:30 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4465
+Feb 03, 2018 7:35:31 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11134
+Feb 03, 2018 7:35:31 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 20:18:16 CET 2013, officialWebsite=http://www.forcacanapine.com/, top=1590, lng=13.19588508606, name=Forca Canapine, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=42.757635781685, skiMapUrl=https://skimap.org/data/4465/2205/1461144830.png}
+Feb 03, 2018 7:35:31 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4466
+Feb 03, 2018 7:35:31 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8313
+Feb 03, 2018 7:35:31 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 20:22:21 CET 2013, officialWebsite=http://www.scioviemontenerone.it, top=1470, lng=12.513187789917, name=Monte Nerone, liftCount=1, terrainPark=false, nightSkiing=false, region=Italy, lat=43.563076069083, skiMapUrl=https://skimap.org/data/4466/1899/1415890887.jpg}
+Feb 03, 2018 7:35:31 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4467
+Feb 03, 2018 7:35:32 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8327
+Feb 03, 2018 7:35:32 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 20:27:17 CET 2013, officialWebsite=http://www.montepiselli.it/, top=1690, lng=13.581951522827, name=Monte Piselli, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=42.787310923548, skiMapUrl=https://skimap.org/data/4467/1899/1415892059.jpg}
+Feb 03, 2018 7:35:32 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4468
+Feb 03, 2018 7:35:32 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8324
+Feb 03, 2018 7:35:32 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 20:39:54 CET 2013, officialWebsite=http://sibillini.palple.net/monteprata2.html, top=1800, lng=13.196314239502, name=Monte Prata, liftCount=1, terrainPark=false, nightSkiing=false, region=Italy, lat=42.869960821014, skiMapUrl=https://skimap.org/data/4468/1899/1415891900.jpg}
+Feb 03, 2018 7:35:32 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4469
+Feb 03, 2018 7:35:33 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13505
+Feb 03, 2018 7:35:33 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 08 19:12:48 CET 2016, officialWebsite=https://www.bolognolaski.it/, top=1620, lng=13.241117858887, name=Pintura di Bolognola, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=42.988486155751, skiMapUrl=https://skimap.org/data/4469/2205/1507489985.jpg}
+Feb 03, 2018 7:35:33 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4470
+Feb 03, 2018 7:35:33 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8340
+Feb 03, 2018 7:35:33 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 20:57:17 CET 2013, officialWebsite=http://www.sarnanoneve.it/, top=1600, lng=13.230431938171, name=Sarnano - Sassotetto, liftCount=8, terrainPark=false, nightSkiing=false, region=Italy, lat=43.006188793496, skiMapUrl=https://skimap.org/data/4470/1899/1415892797.jpg}
+Feb 03, 2018 7:35:33 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4471
+Feb 03, 2018 7:35:34 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13685
+Feb 03, 2018 7:35:34 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 23 20:44:12 CET 2016, officialWebsite=https://www.lurisiagspigna.it/, top=1670, lng=7.7020343780518, name=Lurisia - Monte Pigna, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=44.285062773788, skiMapUrl=https://skimap.org/data/4471/2205/1514061529.jpg}
+Feb 03, 2018 7:35:34 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4472
+Feb 03, 2018 7:35:34 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8331
+Feb 03, 2018 7:35:34 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 21:19:06 CET 2013, officialWebsite=http://www.pianedimocogno.it, top=1580, lng=10.655554199219, name=Piane di Mocogno, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=44.284878441421, skiMapUrl=https://skimap.org/data/4472/1899/1415892429.jpg}
+Feb 03, 2018 7:35:34 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4473
+Feb 03, 2018 7:35:35 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8333
+Feb 03, 2018 7:35:35 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 21:24:04 CET 2013, officialWebsite=http://www.skisellata.it/arioso.asp, top=1730, lng=15.765999221802, name=Sellata - Arioso, liftCount=6, terrainPark=false, nightSkiing=false, region=Italy, lat=40.505939765449, skiMapUrl=https://skimap.org/data/4473/1899/1415892542.jpg}
+Feb 03, 2018 7:35:35 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4474
+Feb 03, 2018 7:35:35 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8323
+Feb 03, 2018 7:35:35 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 21:29:31 CET 2013, officialWebsite=http://www.sirinosci.com/, top=1880, lng=15.838526153565, name=Monte Sirino - Lauria, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=40.145293343917, skiMapUrl=https://skimap.org/data/4474/1899/1415891830.jpg}
+Feb 03, 2018 7:35:35 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4475
+Feb 03, 2018 7:35:36 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11094
+Feb 03, 2018 7:35:36 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 21:36:39 CET 2013, officialWebsite=http://www.sciareinbasilicata.it/viggiano.html, top=1520, lng=15.863331222534, name=Viggiano, liftCount=1, terrainPark=false, nightSkiing=false, region=Italy, lat=40.383530322498, skiMapUrl=https://skimap.org/data/4475/871/1460809656.png}
+Feb 03, 2018 7:35:36 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4476
+Feb 03, 2018 7:35:36 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8321
+Feb 03, 2018 7:35:36 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 21:40:32 CET 2013, officialWebsite=http://www.sciareinbasilicata.it/volturino.html, top=1835, lng=15.822089576721, name=Monte Volturino, liftCount=1, terrainPark=false, nightSkiing=true, region=Italy, lat=40.415493234964, skiMapUrl=https://skimap.org/data/4476/1899/1415891661.jpg}
+Feb 03, 2018 7:35:36 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4477
+Feb 03, 2018 7:35:37 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8305
+Feb 03, 2018 7:35:37 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 21:44:19 CET 2013, officialWebsite=http://www.camigliatellosilano.it, top=1765, lng=16.422947311401, name=Camigliatello Silano, liftCount=1, terrainPark=false, nightSkiing=false, region=Italy, lat=39.330948918252, skiMapUrl=https://skimap.org/data/4477/1899/1415890440.jpg}
+Feb 03, 2018 7:35:37 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4478
+Feb 03, 2018 7:35:37 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8318
+Feb 03, 2018 7:35:37 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 21:49:09 CET 2013, officialWebsite=http://www.prolocolorica.it/?page_id=546, top=1928, lng=16.479767227173, name=Lorica, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=39.268780398449, skiMapUrl=https://skimap.org/data/4478/1899/1415891506.jpg}
+Feb 03, 2018 7:35:37 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4479
+Feb 03, 2018 7:35:38 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8344
+Feb 03, 2018 7:35:38 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 21:53:33 CET 2013, officialWebsite=http://www.palumbosila.it/, top=1640, lng=16.647566223145, name=Villaggio Palumbo, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=39.190925604775, skiMapUrl=https://skimap.org/data/4479/1899/1415893037.jpg}
+Feb 03, 2018 7:35:38 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4480
+Feb 03, 2018 7:35:38 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8311
+Feb 03, 2018 7:35:38 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 21:58:20 CET 2013, officialWebsite=http://www.gambarie.it/, top=1830, lng=15.840757751465, name=Gambarie, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=38.164360857686, skiMapUrl=https://skimap.org/data/4480/1899/1415890736.jpg}
+Feb 03, 2018 7:35:38 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4481
+Feb 03, 2018 7:35:39 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8306
+Feb 03, 2018 7:35:39 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 22:03:19 CET 2013, officialWebsite=, top=1620, lng=16.399215126038, name=Fago del Soldato, liftCount=1, terrainPark=false, nightSkiing=true, region=Italy, lat=39.346084168643, skiMapUrl=https://skimap.org/data/4481/1899/1415890515.jpg}
+Feb 03, 2018 7:35:39 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4482
+Feb 03, 2018 7:35:40 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 9595
+Feb 03, 2018 7:35:40 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 22:10:59 CET 2013, officialWebsite=http://www.pianobattaglia.it/, top=1865, lng=14.022177124024, name=Piano Battaglia - Madonie, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=37.874620445815, skiMapUrl=https://skimap.org/data/4482/2205/1448451928.jpg}
+Feb 03, 2018 7:35:40 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4484
+Feb 03, 2018 7:35:40 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8314
+Feb 03, 2018 7:35:40 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 10 22:53:37 CET 2013, officialWebsite=, top=2115, lng=12.253378295899, name=Misurina, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=46.578247878464, skiMapUrl=https://skimap.org/data/4484/1899/1415890925.jpg}
+Feb 03, 2018 7:35:40 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4485
+Feb 03, 2018 7:35:41 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8350
+Feb 03, 2018 7:35:41 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 13 15:47:58 CET 2013, officialWebsite=http://www.campocatino.eu/, top=1930, lng=13.336304092407, name=Campocatino, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=41.833090743228, skiMapUrl=https://skimap.org/data/4485/1899/1415949504.jpg}
+Feb 03, 2018 7:35:41 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4486
+Feb 03, 2018 7:35:41 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 13 15:54:08 CET 2013, officialWebsite=, top=2450, lng=7.1591552734376, name=Crissolo, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=44.698406694885, skiMapUrl=https://skimap.org/data/4486/2205/1461357804jpg_render.jpg}
+Feb 03, 2018 7:35:41 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4487
+Feb 03, 2018 7:35:42 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8348
+Feb 03, 2018 7:35:42 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 13 16:00:04 CET 2013, officialWebsite=http://www.campostaffi.it/, top=1930, lng=13.339222335816, name=Campo Staffi, liftCount=5, terrainPark=false, nightSkiing=false, region=Italy, lat=41.922815900112, skiMapUrl=https://skimap.org/data/4487/1899/1415949434.jpg}
+Feb 03, 2018 7:35:42 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4488
+Feb 03, 2018 7:35:42 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11193
+Feb 03, 2018 7:35:42 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 13 16:07:28 CET 2013, officialWebsite=http://www.sciareascanno.it/, top=1878, lng=13.879097366333, name=Scanno, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=41.90224904136, skiMapUrl=https://skimap.org/data/4488/2205/1461575731.jpg}
+Feb 03, 2018 7:35:42 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4489
+Feb 03, 2018 7:35:43 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11165
+Feb 03, 2018 7:35:43 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 13 16:13:03 CET 2013, officialWebsite=http://www.capracotta.com/node/683, top=1780, lng=14.256237411499, name=Capracotta, liftCount=1, terrainPark=false, nightSkiing=false, region=Italy, lat=41.819019830225, skiMapUrl=https://skimap.org/data/4489/2205/1461359354.jpg}
+Feb 03, 2018 7:35:43 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4490
+Feb 03, 2018 7:35:43 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8358
+Feb 03, 2018 7:35:43 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 14 07:31:31 CET 2013, officialWebsite=http://selvarotonda.cittareale.it/, top=1800, lng=13.124988937378, name=Selvarotonda, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=42.618142718228, skiMapUrl=https://skimap.org/data/4490/1899/1416127526.jpg}
+Feb 03, 2018 7:35:43 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4491
+Feb 03, 2018 7:35:44 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 9599
+Feb 03, 2018 7:35:44 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 14 07:35:39 CET 2013, officialWebsite=http://www.bielmonteneve.it/, top=1620, lng=8.0844959259034, name=Bielmonte, liftCount=6, terrainPark=false, nightSkiing=false, region=Italy, lat=45.662500487648, skiMapUrl=https://skimap.org/data/4491/2205/1448464884.png}
+Feb 03, 2018 7:35:44 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4492
+Feb 03, 2018 7:35:44 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8362
+Feb 03, 2018 7:35:44 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 14 07:39:59 CET 2013, officialWebsite=http://www.leonessano.it/, top=1700, lng=12.979935073853, name=Leonessa, liftCount=3, terrainPark=false, nightSkiing=false, region=Italy, lat=42.518141347263, skiMapUrl=https://skimap.org/data/4492/1899/1416127919.jpg}
+Feb 03, 2018 7:35:44 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4493
+Feb 03, 2018 7:35:45 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8360
+Feb 03, 2018 7:35:45 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 14 08:43:07 CET 2013, officialWebsite=http://www.pratiditivo.it/, top=2007, lng=13.556202316284, name=Prati di Tivo, liftCount=4, terrainPark=false, nightSkiing=false, region=Italy, lat=42.499792483236, skiMapUrl=https://skimap.org/data/4493/1899/1416127708.jpg}
+Feb 03, 2018 7:35:45 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4494
+Feb 03, 2018 7:35:46 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8368
+Feb 03, 2018 7:35:46 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 14 08:50:23 CET 2013, officialWebsite=, top=1730, lng=13.181122207642, name=Livata, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=41.951547301929, skiMapUrl=https://skimap.org/data/4494/1899/1416420802.jpg}
+Feb 03, 2018 7:35:46 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4495
+Feb 03, 2018 7:35:46 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 8363
+Feb 03, 2018 7:35:46 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 14 08:54:19 CET 2013, officialWebsite=http://www.campigna.it/dettaglio.php?lang=ita&menu=200&pagina=179, top=1690, lng=11.71693649292, name=Campigna, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=43.880297970105, skiMapUrl=https://skimap.org/data/4495/1899/1416128156.jpg}
+Feb 03, 2018 7:35:46 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4496
+Feb 03, 2018 7:35:47 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11190
+Feb 03, 2018 7:35:47 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 16 09:09:42 CET 2013, officialWebsite=http://www.impiantivallefura.it, top=1750, lng=14.058140182495, name=Pescocostanzo, liftCount=4, terrainPark=true, nightSkiing=false, region=Italy, lat=41.888065546476, skiMapUrl=https://skimap.org/data/4496/2205/1461575235.jpg}
+Feb 03, 2018 7:35:47 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4843
+Feb 03, 2018 7:35:47 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 10104
+Feb 03, 2018 7:35:47 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Thu Dec 03 17:33:55 CET 2015, officialWebsite=http://www.gaverskiarea.it/, lng=10.450247192383, name=Gaver, terrainPark=false, nightSkiing=false, region=Italy, lat=45.914112276282, skiMapUrl=https://skimap.org/data/4843/2205/1452030933.jpg}
+Feb 03, 2018 7:35:47 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4909
+Feb 03, 2018 7:35:48 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11232
+Feb 03, 2018 7:35:48 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 04 18:56:43 CET 2015, officialWebsite=, lng=7.1963628768922, name=Le Super Saint-Bernard (Ski St-Bernard), liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=45.900435744013, skiMapUrl=https://skimap.org/data/4909/2052/1462388024.jpg}
+Feb 03, 2018 7:35:48 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 4933
+Feb 03, 2018 7:35:48 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11033
+Feb 03, 2018 7:35:48 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 07 12:37:03 CET 2015, officialWebsite=http://www.doganaccia2000.it/, lng=10.772026443482, name=Doganaccia, terrainPark=false, nightSkiing=false, region=Italy, lat=44.118868039767, skiMapUrl=https://skimap.org/data/4933/2205/1460111500.jpg}
+Feb 03, 2018 7:35:48 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5096
+Feb 03, 2018 7:35:49 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Mon Dec 28 22:39:07 CET 2015, officialWebsite=, lng=7.3128780364991, name=Ala di Stura, terrainPark=false, nightSkiing=false, region=Italy, lat=45.30758711291, skiMapUrl=https://skimap.org/data/5096/2205/1459428821jpg_render.jpg}
+Feb 03, 2018 7:35:49 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5115
+Feb 03, 2018 7:35:49 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11128
+Feb 03, 2018 7:35:49 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 08 09:44:42 CET 2015, officialWebsite=, lng=9.1463932037354, name=Caldirola, terrainPark=false, nightSkiing=false, region=Italy, lat=44.7197562879, skiMapUrl=https://skimap.org/data/5115/2205/1461140354.jpg}
+Feb 03, 2018 7:35:49 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5116
+Feb 03, 2018 7:35:50 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11129
+Feb 03, 2018 7:35:50 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 08 09:52:45 CET 2015, officialWebsite=http://www.seggioviapiandelpoggio.it/index.html, lng=9.2135557174684, name=Pian del Poggio, terrainPark=false, nightSkiing=false, region=Italy, lat=44.689773124003, skiMapUrl=https://skimap.org/data/5116/2205/1461141522.gif}
+Feb 03, 2018 7:35:50 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5117
+Feb 03, 2018 7:35:51 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13811
+Feb 03, 2018 7:35:51 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 10 09:18:41 CET 2017, officialWebsite=http://stazione-sciistica-ventasso-laghi.webnode.it, top=1505, lng=10.275882148743, name=Ventasso Laghi, liftCount=2, terrainPark=false, nightSkiing=false, region=Italy, lat=44.383720336363, skiMapUrl=https://skimap.org/data/5117/1928/1515575600.jpg, longestRun=1300}
+Feb 03, 2018 7:35:51 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5118
+Feb 03, 2018 7:35:51 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11127
+Feb 03, 2018 7:35:51 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 08 10:16:50 CET 2015, officialWebsite=, lng=10.445955657959, name=Casone di Profecchia, terrainPark=false, nightSkiing=false, region=Italy, lat=44.210514651045, skiMapUrl=https://skimap.org/data/5118/2205/1461139990.jpg}
+Feb 03, 2018 7:35:51 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5119
+Feb 03, 2018 7:35:52 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11125
+Feb 03, 2018 7:35:52 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 08 10:19:01 CET 2015, officialWebsite=, lng=10.320042037964, name=Careggine, terrainPark=false, nightSkiing=false, region=Italy, lat=44.096311693842, skiMapUrl=https://skimap.org/data/5119/2205/1461139403.jpg}
+Feb 03, 2018 7:35:52 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5120
+Feb 03, 2018 7:35:52 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11131
+Feb 03, 2018 7:35:52 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 08 10:23:44 CET 2015, officialWebsite=http://www.fumaioloneve.com/, lng=12.076524162293, name=Monte Fumaiolo, terrainPark=false, nightSkiing=false, region=Italy, lat=43.791795091047, skiMapUrl=https://skimap.org/data/5120/2205/1461142694.jpg}
+Feb 03, 2018 7:35:52 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5136
+Feb 03, 2018 7:35:53 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11145
+Feb 03, 2018 7:35:53 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 20 09:18:51 CET 2015, officialWebsite=http://www.pianmune.it/, lng=7.2433980941773, name=Pian Munè, terrainPark=false, nightSkiing=false, region=Italy, lat=44.643746386448, skiMapUrl=https://skimap.org/data/5136/2205/1461245864.jpg}
+Feb 03, 2018 7:35:53 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5137
+Feb 03, 2018 7:35:53 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11144
+Feb 03, 2018 7:35:53 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sun Dec 20 09:45:35 CET 2015, officialWebsite=http://www.pratoselva.eu/, lng=13.491142654419, name=Prato Selva, terrainPark=false, nightSkiing=false, region=Italy, lat=42.52361332759, skiMapUrl=https://skimap.org/data/5137/2205/1461245733.jpg}
+Feb 03, 2018 7:35:53 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5149
+Feb 03, 2018 7:35:53 PM skimap.Uploader fetchSkiMaps
+INFO: JSONArray[0] not found.
+Feb 03, 2018 7:35:53 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 5150
+Feb 03, 2018 7:35:54 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 11208
+Feb 03, 2018 7:35:54 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Fri Dec 25 10:15:26 CET 2015, officialWebsite=http://www.marsia.it/, lng=13.186186218262, name=Marsia, liftCount=3, terrainPark=true, nightSkiing=false, region=Italy, lat=42.064814195317, skiMapUrl=https://skimap.org/data/5150/2205/1461745213.jpg}
+Feb 03, 2018 7:35:54 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 12426
+Feb 03, 2018 7:35:54 PM skimap.Uploader fetchSkiMaps
+INFO: JSONArray[0] not found.
+Feb 03, 2018 7:35:54 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 12873
+Feb 03, 2018 7:35:55 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13466
+Feb 03, 2018 7:35:55 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Tue Dec 13 09:11:18 CET 2016, officialWebsite=https://www.pragelatonaturalterrain.com/, lng=6.9401582717896, name=Pragelato Natural Terrain, terrainPark=false, nightSkiing=false, region=Italy, lat=45.009814360641, skiMapUrl=https://skimap.org/data/12873/2205/1505481965.jpg}
+Feb 03, 2018 7:35:55 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 12917
+Feb 03, 2018 7:35:55 PM skimap.Uploader fetchSkiMaps
+INFO: JSONArray[0] not found.
+Feb 03, 2018 7:35:55 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 12959
+Feb 03, 2018 7:35:55 PM skimap.Uploader getSkiMapImageUrl
+INFO: couldn't retrieve render attribute for ski map id 13891
+Feb 03, 2018 7:35:55 PM skimap.Uploader fetchSkiMaps
+INFO: {lastUpdated=Sat Dec 23 13:43:11 CET 2017, officialWebsite=http://www.crevacol.it/, lng=7.1548208236695, name=Crévacol, terrainPark=false, nightSkiing=false, region=Italy, lat=45.825932121521, skiMapUrl=https://skimap.org/data/12959/2205/1517000555.gif}
+Feb 03, 2018 7:35:55 PM skimap.Uploader fetchSkiMaps
+INFO: Fetching ski area with id: 12977
+Feb 03, 2018 7:35:56 PM skimap.Uploader fetchSkiMaps
+INFO: JSONArray[0] not found.
